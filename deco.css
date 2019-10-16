@@ -1,11 +1,16 @@
+@font-face {
+    font-family: "Ma Super Fonte";
+    src: url('confortaa-bold.ttf');
+}
+
 body {
-    font-family: 'Courier New', Courier, monospace;
     background-color: #F4976C;
+    font-family: 'comfortaa';
 }
 
 .titre{
     text-decoration: none;
-    color: #53b998;
+    color: ;
     text-align: center;
 }
 
